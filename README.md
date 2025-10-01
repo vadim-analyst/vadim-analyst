@@ -1,14 +1,10 @@
-<div id="header" align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnQ0YzRxdXg1Y2Vzb2hxNWNueTZjajRqazZldXRnd2U2ZGlkMjN3ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VeNDat4n4Kre76oS1g/giphy.gif" width='500'/>
-</div>
-
 <div align='center'>
 <h1>
  Hi there, I'm Vadim
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&size=30&pause=10&color=FFFFFF&width=280&height=48&lines=Data+Analyst+%F0%9F%94%A5;Product+Analyst+%F0%9F%94%A5)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&size=28&pause=10&color=FFFFFF&width=280&height=48&lines=Data+Analyst+%F0%9F%94%A5;Product+Analyst+%F0%9F%94%A5)](https://git.io/typing-svg)
 </div>
 
 ### About me :
