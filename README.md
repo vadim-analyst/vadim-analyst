@@ -1,25 +1,25 @@
 <div align='center'>
 <h1>
- Hi there, I'm Vadim
+ Привет, я Вадим
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&size=28&pause=10&color=FFFFFF&width=280&height=48&lines=Data+Analyst+%F0%9F%94%A5;Product+Analyst+%F0%9F%94%A5)](https://git.io/typing-svg)
 </div>
 
-### About me :
-I'm Data / Product Analyst with technical background from Belarus.
+### Обо мне :
+Я Аналитик данных / Продуктовый аналитик с техническим бэкграундом из Беларуси.
 
-- Switched to analytics after working in marketing and web development.
+- Перешел в аналитику после работы в сфере маркетинга и веб-разработки.
 
-- It is important to me that my decisions and my work help the business to grow :chart_with_upwards_trend:. That is why I transform data into concrete, measurable solutions that increase product value and profitability.
+- Для меня важно, чтобы мои решения и моя работа помогали бизнесу расти :chart_with_upwards_trend:. Поэтому я трансформирую данных в конкретные, измеримые решения, которые повышают ценность продукта и прибыльность, а также дают инсайты для роста бизнеса и принятия правильных управленческих решений.
 
-- Love outdoor activities and traveling.
+- Люблю активный отдых и путешествия.
 
-- Open for colaboration! :rocket: 
+- Открыт для сотрудничества! :rocket:
 <hr>
 
-### 🛠️ Languages and Tools : 
+### 🛠️ Языки и инструменты : 
 <div>
   <img src="https://img.shields.io/badge/python-white?logo=python&style=for-the-badge" title="Python" alt="Python" height="40"/>&nbsp;
   <img src="https://img.shields.io/badge/-SQL-00A4EF?style=for-the-badge&logo=SQL" title="SQL" alt="SQL" height="40"/>&nbsp;
@@ -39,7 +39,7 @@ I'm Data / Product Analyst with technical background from Belarus.
 </div>
 <hr>
 
-### Contact me : 
+### Связь со мной : 
 <div id="badges" align="center">
   <a href="https://t.me/vadimharkovets">
   <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram Badge"/>
@@ -53,7 +53,7 @@ I'm Data / Product Analyst with technical background from Belarus.
 </div>
 <hr>
 
-### :file_folder: My projects : 
+### :file_folder: Мои проекты : 
 |Название проекта| Описание проекта| Стек|
 |----------------|-----------------|-----|
 |[A/В-тестирование новой механики оплаты на сайте](https://github.com/vadim-analyst/ab-test-payment)|В ходе тестирования одной гипотезы целевой группе была предложена новая механика оплаты услуг на сайте, у контрольной группы оставалась базовая механика. Анализ итогов эксперимента и вывод, стоит ли запускать новую механику оплаты на всех пользователей.|**Python** **Pandas** **Numpy** **Scipy** **Matplotlib** **Pingouin** **Requests** **Urllib**|
